@@ -16,7 +16,7 @@ At the end of this hackathon, you will be able to understand how to rationalize 
 
 ## Prerequisites
 
-### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda-and-requirements.md).
+### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md)
 
 ---
 
