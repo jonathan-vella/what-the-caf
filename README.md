@@ -47,7 +47,7 @@ The specific prerequisite of this training is an understanding of the Microsoft 
 
 ## Module 2: Define a Strategy & Build a Plan
 
-This 1-day hackathon enables attendees to understand how the framework can be applied with customers. This hackathon walks through the 'Define Strategy and Plan phases' of CAF to support attendees in leading an engagement with a customer who is considering to move their digital assets to Azure.
+This 1-day [hackathon](/learning_path_modules/02_Strategy_and_Plan_Hackathon) enables attendees to understand how the framework can be applied with customers. This hackathon walks through the 'Define Strategy and Plan phases' of CAF to support attendees in leading an engagement with a customer who is considering to move their digital assets to Azure.
 
 By the end of this hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide attendees with the tools and understanding that will complement their conversations with their customers.
 
