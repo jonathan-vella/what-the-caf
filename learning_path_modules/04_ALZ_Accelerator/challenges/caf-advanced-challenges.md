@@ -1,4 +1,5 @@
-# CAF Hackathon Advanced - Azure Landing Zones Accelerator
+# What the CAF
+# Module 04 - ALZ Accelerator Hackathon
 
 ---
 
