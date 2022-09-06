@@ -12,7 +12,7 @@ By the end of this hackathon, attendees will have built a cloud adoption plan th
 
 ## Prerequisites
 
-### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/what-the-hack/agenda_and_requirements.md)
 
 ### Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
 
@@ -59,7 +59,7 @@ In this challenge you will have the opportunity to review the organization and u
 - High-level governance structure
 - Cloud adoption team verified (RACI)
 
-./challenges/challenge2.md
+[Guide for this challenge...](./challenges/challenge2.md)
 
 ### Challenge 3: Building the Plan
 
