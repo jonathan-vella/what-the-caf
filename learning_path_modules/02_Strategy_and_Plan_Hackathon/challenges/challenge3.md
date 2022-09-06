@@ -4,7 +4,7 @@
 
 ## ## Challenge 3
 
-This challenge's focus is on preparing and presenting a high-level financial assessment using Azure Migrate.  You will be using this pre-populated Excel file which contains information about Contoso’s current digital estate.
+This challenge's focus is on preparing and presenting a high-level financial assessment using Azure Migrate.  You will be using this [pre-populated Excel file](/learning_path_modules/02_Strategy_and_Plan_Hackathon/sources/Azure%20Migrate%20import%20template%20-%20Migration%20VF.csv) which contains information about Contoso’s current digital estate.
 
 Your team will need to create an Azure Migrate assessment to gain an understanding of what the estimated costs would look like post-migration. 
 
