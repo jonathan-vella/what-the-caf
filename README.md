@@ -55,7 +55,7 @@ By the end of this hackathon, attendees will have built a cloud adoption plan th
 
 ## Module 3: Migrate Like A Pro
 
-In this 2-day hackathon, attendees will learn how to design a migration strategy for on-premises workloads to Azure.
+In this 2-day [hackathon](/learning_path_modules/03_Migrate_Like_a_Pro), attendees will learn how to design a migration strategy for on-premises workloads to Azure.
 
 At the end of this hackathon attendees will be better able to rationalize the migration of various workloads to Microsoft Azure as well as understanding how to determine the cost of hosting migrated workloads in Azure.
 
@@ -63,7 +63,7 @@ At the end of this hackathon attendees will be better able to rationalize the mi
 
 ## Module 4: Azure Landing Zone Accelerator
 
-In this 2-day hackathon, attendees will learn how the Azure landing zone accelerator enables their partner organization to make templatized landing zone deployments with baked-in repeatable best practices for governance, security, and compliance.
+In this 2-day [hackathon](/learning_path_modules/04_ALZ_Accelerator), attendees will learn how the Azure landing zone accelerator enables their partner organization to make templatized landing zone deployments with baked-in repeatable best practices for governance, security, and compliance.
 
 It comes with a set of design principles for managing the platform at scale; these principles serve as a compass for subsequent design decisions across critical technical domains.
 
