@@ -1,6 +1,6 @@
 # What the CAF
 
-# Module 02 - Migrate Like A Pro Hackathon
+# Module 03 - Migrate Like A Pro Hackathon
 
 ## Challenge 01 - WDS
 
