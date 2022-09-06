@@ -23,7 +23,6 @@ At the end of this hackathon, you will be able to understand how to rationalize 
 ## Guidance for Challenges 2-3
 
 Hands-on lab **step-by-step** guidance is available [here](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/tree/master)
-
 A high-level **architecture diagram** for this lab is available [here.](/learning_path_modules/03_migrate_like_a_pro/media/azmgiratelab_architecture.png)
 
 > Note: If **outbound RDP** connectivity is not allowed from your current location, you can either opt to peer networks or deploy Azure Bastion in the same VNET where your host is deployed. **Azure Bastion deployment time is of circa 20mins.** 
@@ -48,5 +47,4 @@ In this challenge you will designing and building a Landing Zone which will supp
 In this challenge you will be migrate the customer facing website to Azure IaaS and the database to Azure PaaS.
 
 [Challenge 5 - Modernize](challenges/challenge5.md)
-
 In this challenge you will be assessing the customer facing website and then migrate the website to an Azure WebApp.
