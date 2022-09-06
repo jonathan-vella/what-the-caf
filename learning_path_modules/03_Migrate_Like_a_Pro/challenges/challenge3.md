@@ -1,6 +1,6 @@
 # What the CAF
 
-# Module 02 - Migrate Like A Pro Hackathon
+# Module 03 - Migrate Like A Pro Hackathon
 
 ## Challenge 03 - Get Ready!
 
@@ -30,4 +30,3 @@ Contoso has the following mandatory requirements which you must satisfy as part 
 - Network segmentation is in place and limits lateral movement between application layers, including non-application communication such as RDP access.
 - Server administrators in the "Server Admins" security group can access all of the migrated servers in a secure manner which does not require opening RDP access to the public internet for any migrated servers.
 - The network design must include secure application delivery whilst minimizing the overhead of certificate lifecycle management. Any modifications to public DNS, IIS and / or Windows Firewall are not allowed at this stage.
-- 
