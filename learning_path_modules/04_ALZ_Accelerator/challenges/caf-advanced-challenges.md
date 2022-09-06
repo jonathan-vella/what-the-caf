@@ -5,7 +5,8 @@
 
 ## Challenge 1 - Azure landing zone conceptual architecture deployment
 
-In this challenge you will be deploying one of the Reference implementations located in this [repository](https://github.com/Azure/Enterprise-Scale) using the Azure Portal experience. Their other deployment options based on Bicep and Terraform but the Portal-based experience is the quickest way to deploy...and yep there are trade offs which will discuss.
+In this challenge you will be deploying one of the Reference implementations located in this [repository](https://github.com/Azure/Enterprise-Scale) using the Azure Portal experience.
+There other deployment options based on Bicep and Terraform but the Portal-based experience is the quickest way to deploy the ALZ conceptual architecture, and yep there are some trade offs which we will discuss.
 
 Success criteria for this challenge:
 
