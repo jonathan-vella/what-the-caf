@@ -31,7 +31,7 @@ Every customer has different priorities, processes, and organizational structure
 
 ## Pro Tips
 
-### If you are a CxO at Contoso, what would be the possible benefits of Azure:
+## If you are a CxO at Contoso, what would be the possible benefits of Azure:
 
 - How can Azure help Contoso focus on core differentiating activities? How can Contoso use the platform to accelerate innovation. For example how can they leverage cloud-native functionality for new drone services?
 - What about the IaC and DevOps as a market differentiator?
