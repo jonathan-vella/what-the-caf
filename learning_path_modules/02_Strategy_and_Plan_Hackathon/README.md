@@ -12,7 +12,7 @@ By the end of this hackathon, attendees will have built a cloud adoption plan th
 
 ## Prerequisites
 
-### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/what-the-hack/agenda_and_requirements.md)
+### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md)
 
 ### Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
 
