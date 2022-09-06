@@ -13,7 +13,7 @@ At the end of this workshop, you will be able to understand how to leverage the 
 
 ## Prerequisites
 
-Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda-and-requirements.md).
+Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md)
 
 ---
 
