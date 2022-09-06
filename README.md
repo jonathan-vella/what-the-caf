@@ -37,7 +37,7 @@ There are multiple sources to get a quick introduction into the Cloud Adoption F
 
 ## Module 1: Cloud Adoption 101
 
-During this course, you'll learn more about the Cloud Adoption Framework for Azure(CAF), which is a collection of documentation, implementation guides, best practices, and tools that represent recommended guidance from Microsoft and are designed to accelerate your customers' cloud adoption journey.
+During this 2-day [course](/learning_path_modules/01_Cloud_Adoption_101_Workshop), you'll learn more about the Cloud Adoption Framework for Azure(CAF), which is a collection of documentation, implementation guides, best practices, and tools that represent recommended guidance from Microsoft and are designed to accelerate your customers' cloud adoption journey.
 
 In this course, Microsoft subject matter experts will discuss the various methodologies in the framework, as well as the latest updates in key areas such as security, governance, and operations management.
 
