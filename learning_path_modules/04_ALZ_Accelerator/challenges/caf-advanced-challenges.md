@@ -6,7 +6,8 @@
 ## Challenge 1 - Azure landing zone conceptual architecture deployment
 
 In this challenge you will be deploying one of the Reference implementations located in this [repository](https://github.com/Azure/Enterprise-Scale) using the Azure Portal experience.
-There other deployment options based on Bicep and Terraform but the Portal-based experience is the quickest way to deploy the ALZ conceptual architecture, and yep there are some trade offs which we will discuss.
+There other deployment options based on Bicep and Terraform but the Portal-based experience is the quickest way to achieve a scaled-out and mature environment.
+And yes there are some trade offs which we will discuss.
 
 Success criteria for this challenge:
 
@@ -51,7 +52,7 @@ In this challenge you will be using Policy-As-Code to modify a policy definition
 
 ## Challenge 3 - Azure VM BCDR at scale
 
-In this challenge you will be deploying an Azure Virtual Machine in the same region as your Hub network which will be auto-enabled for backup and DR on creation using Azure Policy. Explore the possibility of using tags to associate backup and DR policies via Azure Policy.
+In this challenge you will be deploying an Azure Virtual Machine in the same region as your Hub network. The VM should be be auto-enabled for backup and DR on creation using Azure Policy. Explore the possibility of using tags to associate backup and DR policies via Azure Policy.
 
 Success criteria for this challenge:
 
@@ -89,7 +90,7 @@ Success criteria for this challenge:
 
 ## Challenge 6 - Azure Environment Clean-up
 
-In this challenge, you will be exploring all possible options available to you to clean up your Azure environment to minimize costs.
+In this challenge, you will be exploring all possible options available to you to clean up your Azure environment to minimize costs without impacting your Management Groups and Azure Policy assignments.
 
 Success criteria for this challenge:
 
