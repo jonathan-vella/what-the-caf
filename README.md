@@ -11,7 +11,7 @@ This learning path covers at depth these 5 pillars:
 4. Governance & tooling
 5. Management & operations
 
-![CAF Expert](./images/what-the-caf.jpg)
+![CA Expert](./images/what-the-caf.jpg)
 
 Having Cloud Adoption experts in their organization enables the partner to become a trusted advisor not only to their customers, but also to Microsoft field teams. These “experts” continuously generate more value for customers by leveraging best practices, and helping these customers' better align their business and technical strategies to ensure success.
 
