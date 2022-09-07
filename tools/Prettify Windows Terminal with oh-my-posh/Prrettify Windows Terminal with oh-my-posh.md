@@ -19,14 +19,12 @@ oh-my-posh init pwsh --config ~/.paradox.omp.json | Invoke-Expression
 
 
 > Notes:
-> paradox.omp.json is my theme name
-> This theme uses Nerd Fonts.  You can install Nerd Fonts from the cmd line with  'oh-my-posh font install' or manually from https://www.nerdfonts.com/
-> You need to configure your Terminal to use the required font e.g. CaskaydiaCove Nerd Font
-> Themes are saved in '%userprofile%\AppData\Local\Programs\oh-my-posh\themes'
+> - paradox.omp.json is my theme name
+> - This theme uses Nerd Fonts.  You can install Nerd Fonts from the cmd line with  'oh-my-posh font install' or manually from https://www.nerdfonts.com/
+> - You need to configure your Terminal to use the required font e.g. CaskaydiaCove Nerd Font
+> - Themes are saved in '%userprofile%\AppData\Local\Programs\oh-my-posh\themes'
 
-
-
-Happy prettifying!
+## Happy prettifying!
 
 
 
