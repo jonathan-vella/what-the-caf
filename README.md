@@ -13,8 +13,6 @@ This learning path covers at depth these 5 pillars:
 
 ![CAF Expert](./images/what-the-caf.jpg)
 
-Cloud architects, IT professionals, and BDMs use this information to achieve their cloud adoption goals.
-
 Having Cloud Adoption experts in their organization enables the partner to become a trusted advisor not only to their customers, but also to Microsoft field teams. These “experts” continuously generate more value for customers by leveraging best practices, and helping these customers' better align their business and technical strategies to ensure success.
 
 > **_For further information please_** [download this document](./sources/what-the-caf-lp-overview.pdf)
