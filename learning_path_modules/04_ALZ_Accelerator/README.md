@@ -27,9 +27,9 @@ Before attending please review the requirements (self-paced online courses, cert
 
 ### Hackathon Day 2 (6h)
 
-- [Challenge 01](./challenges/caf-advanced-challenges.md) Landing Zone deployment
-- [Challenge 02](./challenges/caf-advanced-challenges.md) IaC and PaC with GitHub actions
-- [Challenge 03](./challenges/caf-advanced-challenges.md) Azure VM BCDR at scale
-- [Challenge 04](./challenges/caf-advanced-challenges.md) Visualizing and documenting Azure Governance
-- [Challenge 05](./challenges/caf-advanced-challenges.md) Assessing Landing Zones just like the FTA team!
-- [Challenge 06](./challenges/caf-advanced-challenges.md) Environment cleanup
+- [Challenge 01](./challenges/challenge1.md) Landing Zone deployment
+- [Challenge 02](./challenges/challenge2.md) IaC and PaC with GitHub actions
+- [Challenge 03](./challenges/challenge3.md) Azure VM and Azure SQL Database BCDR at scale
+- [Challenge 04](./challenges/challenge4.md) Visualizing and documenting Azure Governance
+- [Challenge 05](./challenges/challenge5.md) Assessing Landing Zones just like the FTA team!
+- [Challenge 06](./challenges/challenge6.md) Environment cleanup
