@@ -1,19 +1,20 @@
 # How to prettify Windows Terminal with oh-my-posh
 
+![Prettify Windows Terminal](./images/prettify_windows_terminal.jpg)
 
 
-Install the latest version of Windows Terminal from the Store
-Install oh-my-posh from the store
-Create a new profile by typing; notepad $PROFILE
-Add the following two lines:
+- Install the latest version of Windows Terminal from the Store
+- Install oh-my-posh from the store
+- Create a new profile by typing; notepad $PROFILE
+- Add the following two lines:
 
 ```
 oh-my-posh init pwsh | Invoke-Expression
 oh-my-posh init pwsh --config ~/.paradox.omp.json | Invoke-Expression
 ```
 
-Save and exit
-Reload the profile by typing: $PROFILE
+- Save and exit
+- Reload the profile by typing: $PROFILE
 
 
 
