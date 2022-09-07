@@ -6,7 +6,7 @@
 
 ---
 
-#### Please use following PowerShell commands to clear all deployments at tenant, Management Group and Subscription scopes.
+Please use following PowerShell commands to clear all deployments at tenant, Management Group and Subscription scopes.
 
 ```powershell
 Get-AzTenantDeployment   | Foreach-Object -Parallel {
