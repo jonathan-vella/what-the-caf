@@ -1,6 +1,6 @@
 # How to prettify Windows Terminal with oh-my-posh
 
-![Prettify Windows Terminal](./images/prettify_windows_terminal.jpg)
+![Prettify Windows Terminal](/images/prettify_windows_terminal.jpg)
 
 
 - Install the latest version of Windows Terminal from the Store
