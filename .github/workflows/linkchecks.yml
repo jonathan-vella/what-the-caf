@@ -1,27 +1,24 @@
-
----
-name: Code Review - Link Checks
+name: Check links in markdown files
 
 on:
-  pull_request:
-    branches:
-      - main
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 jobs:
-  markdown-link-check:
-    name: Markdown Link Check
+  linkChecker:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@master
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v3
 
-      - name: Check links in markdown files
-        uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
         with:
-          config-file: ".github/actions-config/mlc_config.json"
-          use-verbose-mode: "yes"
-          use-quiet-mode: "yes"
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
