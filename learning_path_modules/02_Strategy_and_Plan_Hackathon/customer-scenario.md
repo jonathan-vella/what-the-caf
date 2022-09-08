@@ -1,38 +1,42 @@
-# CAF-Hackathon prerequisites
+# What The Hack
 
-![CAF Hackathon](./media/caf-hackathon-header.png)
+# Module 02: Strategy & Plan Hackathon
 
 ## Customer Scenario - Contoso Land Surveying
 
-**Contoso Land Surveying** operates a global geology surveying business, where they deploy surveyors to carry out detailed land surveys for companies such as food producers, airports, oil companies, utilities, railway companies, ports authorities and other infrastructure heavy / reliant businesses. Surveys are carried out on dry land as well as underwater and in areas of variable terrain.
+**Contoso Land Surveying** operates a global geology surveying business, where they deploy surveyors to carry out detailed land surveys for companies such as food producers, airports, oil companies, utilities, railway companies, ports authorities and other business which are reliant on infrastructure heavy. Surveys are carried out on dry land as well as underwater and in areas of variable terrain.
 
-They see an opportunity to leverage technology such as drones, data and AI to improve efficiency and provide deeper insight into surveys predicting challenges today and in the future for their clients and their use of land as an asset.
+Contoso see an opportunity to leverage technology such as drones, data and AI to improve efficiency and provide deeper insights into surveys predicting the challenges of today and tomorrow for their clients and their use of land as an asset.
 
 **Contoso basic information:**
 
-- 8 countries, 5,500 employees, £1.3bn Revenue
+- 2 continents, 8 countries, 5,500 employees, $$1.3bn Revenue
 - End state is a global IT system in the cloud which has minimum standards for:
-  - Security; Compliance; Performance; Availability; Cost variability
-- Enabling Contoso's Business Units to focus on core activities not keeping the lights on so they can downsize in house IT through use of cloud technologies, centralization, and automation
-- Each country currently has autonomous IT with varying standards of DR, backup, and HA. Some countries will see cost savings from cloud others will see an increase as their IT is brought up to meet minimum standards, which were not harmonized prior to this move.
+  - Security; Compliance; Performance; Resiliency; Cost Variable.
+- Each country currently has an autonomous IT infrastructure with varying standards of DR, backup, HA, and security. Some countries will see cost savings from cloud whilst others will see an increase as their IT estate is aligned to meet the minimum standards, which were not harmonized prior to this move.
+- One of the immediate priorities is to enable Contoso's Business Units to focus on core activities rather than trying to keep the lights on. They also want to downsize their on-premises IT infrastructure through use of cloud technologies, centralization, and automation.
+- IT head-count is starting to become an issue since the talent pool is limited.
 - Contoso has a total of 173 Applications
 
-Contoso's Senior Leadership Team (SLT) have already set the company direction to leverage technology to transform the business and now want a high level business case so they carry out a cost benefit analysis and ensure this key strategic move makes sense at this stage. Further depth in the business case will be built in later stages; this is just a litmus test at this stage as the SLT look to release another round of funding.  
+Contoso's Senior Leadership Team (SLT) have already set the company direction to leverage technology to transform the business and now want a **high-level business case** so they carry out a cost vs. benefit analysis and ensure that this strategic move makes sense at this stage. At this moment in time this is a litmus test which the SLT will use to eval whether or not Contoso should release another round of funding. Further depth in the business case will be built in later stages.
 
-Contoso Land Surveying IT team have asked Microsoft and you (the partner) to help them develop a **<u>high-level</u>** feasibility study which examines the following:
+Contoso Land Surveying IT team have asked Microsoft and you (the partner) to help them develop a **high-level** feasibility study which takes into consideration the following:
 
-- Move to the cloud to enable innovation, reduce "keep lights on" and "firefiighting" activiities so that they can focus more on activities which differentiate (core vs context activities)
-- Return on Investment
-  - Must in payback in a 36-month period and lower overall OPEX
-  - Cost of change must be paid for in 36-month period
-- Business case needs to demonstrate this and consider business units where IT costs will increase & those where IT costs will decrease
-- Benefits of Cloud must be clearly articulated
-- Critical success factors must be clearly articulated
-- High level business case required for CEO, CFO and SLT. To be delivered by CIO
-- Optimise deployment of surveyors by automating their work as much as possible. This will give them a competitive advantage in an already commoditising business
-- Leveraging technology such as drones to optimise surveys & offer surveying solutions in areas not possible with people or conventional machines such as underwater, dangerous / hazardous environments or environments with limits on heavy equipment.
+- How a "move-to-cloud" can enable innovation and reduce their firefighting activities so that they can focus more on activities which differentiate (core vs context).
+- A return on Investment which must in payback in a 36-month period and lower overall OPEX.
+- The business case needs to demonstrate where IT costs will increase & where will they decrease.
+- The benefits of the cloud which make sense for Contoso must be clearly articulated. Critical success factors must be clearly documented.
+- They perceive automation as a key competitive advantage in an already commoditized business. How could they optimize the deployment of surveyors by automating as much as possible their work?
+- They want to leverage technology such as drones to optimize surveys & offer surveying solutions in areas not possible with people or conventional machines (think of underwater, hazardous environments, or environments with limits on heavy equipment). How can public cloud help their business?
+- The audience for this high-level business case will be the CXO team at Contoso (CEO, CFO, SLT, etc.). It will however be delivered by CIO.
 
-Additional possibly relevant information found from various sources:
+---
+
+## Financials
+
+The following information can you help you formulate a guestimate which you can use to demonstrate possible cost-savings. ROI, additional investments, etc.
+
+
 
 ![IT spending as a percent of revenue](media/IT-spending-as-percent-of-revenue.png)
 
@@ -64,7 +68,7 @@ Typically, these will be in this range:
 
 ### Estimate the cost increase owing to countries needing to align infrastructure with new global standards
 
-- The customer needs to provide information here, list the 8 countries, and get an anecdotal view of the state of their IT, as in this example
+- The customer needs to provide information here, list the 8 countries, and get an anecdotal view of the state of their IT, as in this example:
   - United Kingdom, 25% IT spend, aligned to global standards, no adjustment up needed
   - France, 13% IT spend, aligned to global standards, no adjustment up needed
   - Spain, 10% IT spend, aligned to global standards, no adjustment up needed
@@ -77,10 +81,11 @@ Typically, these will be in this range:
   - Low adjustment = 5%
   - Medium adjustment = 10%
   - High adjustment = 15%
-- If this is impossible guess, and then show a trusted party and ask for their opinion. Use country revenue as a proxy for the IT spend (sometimes in the annual report)
+- If this is impossible to guess, hen work with a trusted party and ask for their opinion. Use country revenue as a proxy for the IT spend (sometimes this is published in the annual report).
 
 ### Estimate the cost of change
 
-- The migration complexities and efforts result in a cost.  This cost relies on an understanding of the current infrastructure by performing a discovery and analysis. For the purposes of this challenge, we can estimate:
-  - 5-to-8 times the anticipated monthly ACR as the cost of migration.  This excludes cost for application re-work which will need to be factored in. This range will depend on lift-and-shift efforts compared to modernization efforts.
-  - These number should be validated with the partner supporting in the migration.
+The migration complexities and efforts will result in an additional cost. This cost relies on an understanding of the current infrastructure (CAF "Plan" phase - Discover & Assess). For the purposes of this challenge, we can estimate the following:
+
+- 5-to-8 times the anticipated monthly ACR as the cost of migration.  This excludes cost for application re-work which will need to be factored in. This range will depend on lift-and-shift efforts compared to modernization efforts.
+- These numbers should always be validated with the partner supporting in the migration.
