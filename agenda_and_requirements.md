@@ -11,9 +11,9 @@
 
 # **Azure subscription requirements**
 
-- **<u>Migrate Like A Pro Hackathon</u>** subscription: **Only paid Azure subscriptions (e.g.,CSP, EA, PAYG) are compatible**. The subscription and can be shared across teams as long as the number of resources required (e.g., Cores, vNets, etc.) are within the Azure subscription and service limits, quotas, and constraints. **Azure subscriptions based on Free Account and Azure Pass are not compatible** with the hands-on labs for this hackathon. 
+- **<u>Migrate Like A Pro Hackathon</u>** subscription: **Only paid Azure subscriptions (e.g.,CSP, EA, PAYG) are compatible**. The subscription can be shared across teams as long as the number of resources required (e.g., Cores, vNets, etc.) are within the Azure subscription and service limits, quotas, and constraints. **Azure subscriptions based on Free Account and Azure Pass are not compatible** with the hands-on labs for this hackathon. 
 
-- **<u>ALZ Accelerator Hackathon</u>** subscription: The Azure subscription for CAF Advanced must be associated to a **non-production AAD tenant** since [tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is ra mandatory requirement for this hackathon.
+- **<u>ALZ Accelerator Hackathon</u>** subscription: The Azure subscription for this hackathon must be associated to a **non-production AAD tenant** since [tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is a mandatory requirement for this hackathon. Each attendee is expected to have a dedicate subscription.
 
 - Azure subscriptions in CSP must have Azure Cost Management enabled as per this [document](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/get-started-partners)
    
