@@ -1,16 +1,12 @@
 ---
 name: Code Review
 
-##########################################
-# Start the job on push for all branches #
-##########################################
+###########################################
+# Start the job manually for all branches #
+###########################################
 
-# yamllint disable-line rule:truthy
 on:
-  pull_request:
-    branches:
-      - main
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 ###############
 # Set the Job #
