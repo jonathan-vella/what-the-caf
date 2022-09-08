@@ -7,7 +7,7 @@
 # For more information on PSScriptAnalyzer in general, see
 # https://github.com/PowerShell/PSScriptAnalyzer
 
-name: PSScriptAnalyzer
+name: PowerShell Script Analyzer
 
 on:
   push:
@@ -25,7 +25,7 @@ jobs:
     permissions:
       contents: read # for actions/checkout to fetch code
       security-events: write # for github/codeql-action/upload-sarif to upload SARIF results
-    name: PSScriptAnalyzer
+    name: PowerShell Script Analyzer
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
