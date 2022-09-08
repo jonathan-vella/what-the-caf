@@ -1,27 +1,22 @@
-
 ---
-name: Code Review - Link Checks
+name: Code Review - Check Link in Markdown
 
+          
 on:
-  pull_request:
-    branches:
-      - main
-  workflow_dispatch: {}
-
+  schedule:
+  - cron: '0 0 1 * *'
+  workflow_dispatch:
+  
 jobs:
-  markdown-link-check:
-    name: Markdown Link Check
+  linkChecker:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: peter-evans/link-checker@v1
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
         with:
-          fetch-depth: 0
-
-      - name: Check links in markdown files
-        uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
-        with:
-          config-file: ".github/actions-config/mlc_config.json"
-          use-verbose-mode: "yes"
-          use-quiet-mode: "yes"
+          title: Link Checker Report
+          content-filepath: ./link-checker/out.md
+          labels: report, automated issue
