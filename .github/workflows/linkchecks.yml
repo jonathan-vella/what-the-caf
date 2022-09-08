@@ -1,10 +1,7 @@
 name: Check links in markdown files
 
 on:
-  repository_dispatch:
   workflow_dispatch:
-  schedule:
-    - cron: "00 18 * * *"
 
 jobs:
   linkChecker:
