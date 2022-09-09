@@ -13,7 +13,6 @@ Just like in the previous challenge, we will not be providing any additional gui
 ## Challenge 05 - Success Criteria
 
 1. Assess your application and share your findings with your coach.
-
 2. Migrate the application for testing purposes to an Azure Web App
-
 3. Share your findings with your coach.
+4. Cleanup resources otherwise it's gonna be $$$
