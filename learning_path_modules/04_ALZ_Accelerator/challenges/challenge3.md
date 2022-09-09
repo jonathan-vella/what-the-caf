@@ -15,6 +15,7 @@ In this challenge you will be deploying an Azure Virtual Machine in the same reg
 3. Configure Azure Site Recovery (e.g., vault, policy, etc.)
 4. Configure Azure Policy to auto-enable DR on VM creation but to also audit for non-compliance
 5. Deploy an Azure VM and make sure that the VM is enabled for BCDR (Azure Backup and Azure Site Recovery) via Azure Policy
+6. In the Azure Portal, have a look at your VM's blade and note what else has the VM been automatically onboarded into.
 
 ---
 
@@ -25,7 +26,7 @@ In this challenge you will be creating a custom Azure Policy definition which ca
 ## Challenge 03b - Success Criteria
 
 1. Create an Azure Policy definition which can support the auditing and / or configuration of Azure SQL Database PITR. You can use the code located [here](https://raw.githubusercontent.com/jonathan-vella/scripts-and-policies/master/Azure%20Policy/Deploy%20Azure%20SQL%20DB%20ShortTerm%20Backup.json) to create this policy or write your own.
-2. Create the required Azure Policy assignments
+2. Create the required Azure Policy assignments and perhaps exclude some others.
 3. Create an Azure SQL Database and monitor the impact of the Azure Policy in scope for this challenge.
 
 ---
