@@ -23,12 +23,11 @@ Challenge 04 - Success Criteria
 Have in mind, there are a number of post-migration steps that should be completed before the migrated services is ready for production use.
 These include:
 
-- Validation that the Azure VM agent is deployed.
-- Enabling backup and disaster recovery at scale
-- Encrypting VM disks at scale
-- Ensuring the network is properly secured
+- Validation that the Azure VM agent is deployed
+- Onboard into management, monitoring and vulnerability scanning
+- Enabling backup and disaster recovery
+- Maybe envrypt with SSE and CMK
+- Lock down the network and remote accessEnsuring the network is properly secured
 - Ensuring proper subscription governance is in place, such as role-based access control and Azure Policy
-- Reviewing recommendations from Azure Advisor and Azure Defender for Cloud
-- Cleaning up migration resources
-
-.
+- Reviewing recommendations from Azure Advisor
+- What about automating most of the above? And how?
