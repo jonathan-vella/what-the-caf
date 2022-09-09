@@ -15,4 +15,4 @@ Just like in the previous challenge, we will not be providing any additional gui
 1. Assess your application and share your findings with your coach.
 2. Migrate the application for testing purposes to an Azure Web App
 3. Share your findings with your coach.
-4. Cleanup resources otherwise it's gonna be $$$
+4. Cleanup your lab resources; alternatively you can $$$
