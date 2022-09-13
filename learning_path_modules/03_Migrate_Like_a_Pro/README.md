@@ -12,6 +12,8 @@ In this 2-day hackathon, you will learn how to design a migration strategy for a
 
 At the end of this hackathon, you will be able to understand how to rationalize the migration of various workloads to Microsoft Azure as well as understand how to determine the cost of hosting migrated workloads in Azure.
 
+![Azure Migrate](./images/azure_migrate.jpg)
+
 ----
 
 ## Prerequisites
