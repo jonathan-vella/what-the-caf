@@ -8,6 +8,8 @@ This 1-day hackathon enables attendees to understand how the framework can be ap
 
 By the end of this hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide attendees with the tools and understanding that will complement their conversations with their customers.
 
+![Drones](./images/drones.jpg)
+
 ---
 
 ## Prerequisites
