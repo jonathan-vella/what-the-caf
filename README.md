@@ -21,7 +21,7 @@ Having Cloud Adoption experts in their organization enables the partner to becom
 
 # The learning path
 
-The learning path is based on an in-depth review of the Cloud Adoption Framework plus three main modules which include multiple hands-on activities in the form of labs, hackathons, and whiteboard design sessions. Please make sure to review all requirements here.
+The learning path is based on an in-depth review of the Cloud Adoption Framework plus three main modules which include multiple hands-on activities in the form of labs, hackathons, and whiteboard design sessions. Please make sure to review all requirements [here](agenda_and_requirements.md).
 
 There are multiple sources to get a quick introduction into the Cloud Adoption Framework. Here's some of them:
 
