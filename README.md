@@ -1,4 +1,4 @@
-# Welcome to What the CAF!
+![What-the-CAF Learning Path](/images/what-the-caf-lp.jpg)
 
 What The CAF (WTC) is a learning path for Microsoft partners based on the Microsoft Cloud Adoption Framework for Azure (CAF). It is guidance that's designed to help partners create and use robust processes to ensure customer success across all phases building solutions on Azure, from the assessment phase to design, pilot, 
 implementation, and post-implementation phases.
