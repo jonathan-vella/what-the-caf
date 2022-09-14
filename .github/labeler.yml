@@ -25,5 +25,3 @@ sources:
 # Add 'tools' to any changes within 'tools' folder or any subfolders
 tools:
 - scripts/**/*
-
-
