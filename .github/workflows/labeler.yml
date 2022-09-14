@@ -1,22 +1,29 @@
 # Add 'repo' label to any root file changes
-repo: - '*'
+repo:
+- '*'
 
 # Add 'docs' to any changes within 'docs' folder or any subfolders
-docs: - docs/**/*
+docs:
+- docs/**/*
 
 # Add 'images' to any changes within 'images' folder or any subfolders
-images: - images/**/*
+images:
+- images/**/*
 
 # Add 'learning_path_modules' to any file changes within 'learning_path_modules' folder
-learning_path_modules: learning_path_modules/*
+learning_path_modules: 
+- learning_path_modules/*
 
 # Add 'scripts' to any changes within 'scripts' folder or any subfolders
-scripts: - scripts/**/*
+scripts:
+- scripts/**/*
 
 # Add 'sources' to any changes within 'sources' folder or any subfolders
-sources: - sources/**/*
+sources:
+- sources/**/*
 
 # Add 'tools' to any changes within 'tools' folder or any subfolders
-tools: - scripts/**/*
+tools:
+- scripts/**/*
 
 
