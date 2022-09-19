@@ -2,7 +2,7 @@
 
 # Module 02 - Strategy and Plan Hackathon
 
-## ## Challenge 3
+## Challenge 3
 
 This challenge's focus is on preparing and presenting a high-level financial assessment using Azure Migrate.  You will be using this [pre-populated Excel file](/learning_path_modules/02_Strategy_and_Plan_Hackathon/sources/Azure%20Migrate%20import%20template%20-%20Migration%20VF.csv) which contains information about Contoso’s current digital estate.
 

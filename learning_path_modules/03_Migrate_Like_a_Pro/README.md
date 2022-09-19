@@ -20,6 +20,8 @@ At the end of this hackathon, you will be able to understand how to rationalize 
 
 ### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md)
 
+### Deploy the lab environment located [here](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Line-of-business%20application%20migration.md) 1-day prior to attending.
+
 ---
 
 ## Guidance for Challenges 2-3
@@ -27,7 +29,7 @@ At the end of this hackathon, you will be able to understand how to rationalize 
 Hands-on lab **step-by-step** guidance is available [here](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/tree/master)
 A high-level **architecture diagram** for this lab is available [here.](/learning_path_modules/03_migrate_like_a_pro/media/azmgiratelab_architecture.png)
 
-> Note: If **outbound RDP** connectivity is not allowed from your current location, you can either opt to peer networks or deploy Azure Bastion in the same VNET where your host is deployed. **Azure Bastion deployment time is of circa 20mins.** 
+> Note: If **outbound RDP** connectivity is not allowed from your current location, you can either opt to peer networks (SmartHotelVNet <-> smarthotelhostvnet) or deploy Azure Bastion in the same VNET where your host is deployed. **Azure Bastion deployment time is of circa 20mins.** 
 
 ---
 
