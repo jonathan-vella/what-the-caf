@@ -20,6 +20,8 @@ At the end of this hackathon, you will be able to understand how to rationalize 
 
 ### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md)
 
+### Deploy the lab environment located [here](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Line-of-business%20application%20migration.md) 1-day prior to attending.
+
 ---
 
 ## Guidance for Challenges 2-3
