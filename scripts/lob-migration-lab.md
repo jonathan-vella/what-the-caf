@@ -4,11 +4,42 @@ A series of scripts that can be of great help during this lab.
 
 ---
 
-#### Re-arm SQL Server VM
+## Connect to SmartHotelHost VM using Azure Bastion with Native Client support
+
+You can connect to your SmartHotelHost using Azure Bastion with Native Client support by performing the following:
+
+- Peer the "SmartHotelVNet" and the "smarthotelhostvnet" virtual networks. Guidance is available [here](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering).
+
+- Upgrade the "SmartHotelBastion" Azure Bastion SKU to Standard. Guidance is available [here](https://learn.microsoft.com/en-us/azure/bastion/upgrade-sku).
+
+- Enable Azure Bastion Native Client support. Guidance is available [here](https://learn.microsoft.com/en-us/azure/bastion/connect-native-client-windows#to-modify-an-existing-bastion-deployment).
+
+- You can use the PowerShell commands below to connect to your SmartHotelHost VM using Azure Bastion with Native Client:
+
+```powershell
+# Connect to Bastion using Native Client
+# https://docs.microsoft.com/en-us/azure/bastion/connect-native-client-windows#connect
+
+# Variables
+
+$Subscription="your azure subscription name"
+$BastionName="SmartHotelBastion"
+$BastionResourceGroup="SmartHotelRG"
+$VmID="your VM ID"
+
+az login
+az account set --subscription $Subscription
+
+# Connect via RDP to Windows VM
+az network bastion rdp --name $BastionName --resource-group $BastionResourceGroup --target-resource-id $VmID
+
+```
+
+---
+
+## Re-arm SQL Server VM
 
 Run the following PowerShell command on the host VM (SmartHotelHost) either via Invoke-AzVMRunCommand, the Run Command in the Portal GUI, or RDP'ing to the host and running it there:
-
-
 
 ```powershell
 $VMName = "smarthotelSQL1"
@@ -35,5 +66,3 @@ Invoke-Command -ComputerName $ip -ScriptBlock {
 > Note: Replace "enter your lab password here" with the password provided in the hands-on lab guide.
 
 ---
-
-
