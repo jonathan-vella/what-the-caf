@@ -21,12 +21,12 @@ You can connect to your SmartHotelHost using Azure Bastion with Native Client su
 # https://docs.microsoft.com/en-us/azure/bastion/connect-native-client-windows#connect
 
 # Variables
-
 $Subscription="your azure subscription name"
 $BastionName="SmartHotelBastion"
 $BastionResourceGroup="SmartHotelRG"
 $VmID="your VM ID"
 
+# Login to Azure
 az login
 az account set --subscription $Subscription
 
