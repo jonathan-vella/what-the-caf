@@ -11,4 +11,4 @@ Throughout the whiteboard design session, you and your team will look at the var
 At the end of this workshop, you will be able to design and implement the discovery and assessment of environments to evaluate their readiness for migrating to Azure using services like Azure Migrate and Azure Database Migration Service.
 
 - The guide for this WDS is available [here.](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/blob/master/Whiteboard%20design%20session/WDS%20student%20guide%20-%20Line-of-business%20application%20migration.md)
-- The architecture for this WDS is available [here.](./learning_path_modules/03_migrate_like_a_pro/media/azmgiratelab_architecture.png)
+- The architecture for this WDS is available [here.]([./learning_path_modules/03_migrate_like_a_pro/media/azmgiratelab_architecture.png](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/blob/master/Hands-on%20lab/images/overview.png))
