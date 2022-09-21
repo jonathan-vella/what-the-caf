@@ -46,7 +46,7 @@ In this challenge you will be leveraging Azure Migrate to discover and assess on
 In this challenge you will be leveraging DMA to discover and assess on-premises SQL Server databases servers for migration readiness to Azure.
 
 [Challenge 3 - Get Ready!](./challenges/challenge3.md)
-In this challenge you will designing and building a Landing Zone which will support the initial migration.
+In this challenge you will designing a Landing Zone which will support the initial migration.
 
 [Challenge 4 - Migrate](challenges/challenge4.md)
 In this challenge you will be migrate the customer facing website to Azure IaaS and the database to Azure PaaS.
