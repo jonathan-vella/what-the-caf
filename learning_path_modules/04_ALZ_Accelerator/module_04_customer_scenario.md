@@ -28,6 +28,7 @@
 
 ### Requirements
 
+- The first workload to be migrated to Azure is their SAP production landscape; migration has to be completed in less than 6 weeks due to capacity and reliability issues with their DCs.
 - They want to be able to easily create cost-related reports for each workload based on department, owner, and environment.
 - They want to minimize their existing on-premises footprint and want to replace the existing MPLS solution with a 'cloud-based' approach.
 - They want to start allowing local internet breakout from all sites to improve SaaS application performance and reduce the load on their WAN.
