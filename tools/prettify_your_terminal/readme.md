@@ -9,8 +9,20 @@
 - Add the following two lines:
 
 ```
-oh-my-posh init pwsh | Invoke-Expression
-oh-my-posh init pwsh --config ~/.paradox.omp.json | Invoke-Expression
+# Start Oh My Posh CLI helper with paradox enabled
+oh-my-posh init pwsh --config ~/.config/ohmyposh/paradox.omp.json | Invoke-Expression
+
+# Add icons to `ls` and `dir` file lists
+# Don't have it? Install using this command:
+# Install-Module -Name Terminal-Icons -Repository PSGallery
+Import-Module -Name Terminal-Icons
+
+# Add auto complete (requires PSReadline 2.2.0-beta1+ prerelease)
+# Don't have it? Install using this command:
+# Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
+Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -PredictionViewStyle ListView
+Set-PSReadLineOption -EditMode Windows
 ```
 
 - Save and exit
