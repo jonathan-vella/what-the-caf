@@ -32,10 +32,10 @@ Before attending please review the requirements (self-paced online courses, cert
 - Azure Landing Zones overview
 - Azure Landing Zone conceptual architecture 
 - Design areas, principles, considerations, and recommendations
+- [Challenge 01](./challenges/challenge1.md) Landing Zone deployment
 
 ### Hackathon Day 2 (8hr)
 
-- [Challenge 01](./challenges/challenge1.md) Landing Zone deployment
 - [Challenge 02](./challenges/challenge2.md) IaC and PaC with GitHub actions
 - [Challenge 03](./challenges/challenge3.md) Azure VM and Azure SQL Database BCDR at scale
 - [Challenge 04](./challenges/challenge4.md) Visualizing and documenting Azure Governance
