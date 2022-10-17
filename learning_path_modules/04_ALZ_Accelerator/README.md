@@ -27,13 +27,13 @@ Before attending please review the requirements (self-paced online courses, cert
 
 ## Agenda
 
-### Hackathon Day 1 (8h)
+### Hackathon Day 1 (8hr)
 
 - Azure Landing Zones overview
 - Azure Landing Zone conceptual architecture 
 - Design areas, principles, considerations, and recommendations
 
-### Hackathon Day 2 (6h)
+### Hackathon Day 2 (8hr)
 
 - [Challenge 01](./challenges/challenge1.md) Landing Zone deployment
 - [Challenge 02](./challenges/challenge2.md) IaC and PaC with GitHub actions
