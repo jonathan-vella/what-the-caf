@@ -25,9 +25,9 @@
 
 ### **<u>ALZ Accelerator Hackathon subscription: </u>**
 
-- An absolute minimum of 2 Azure subscriptions per attendee are required.
+- At least 1 Azure subscription per attendee is required; the recommendation is to have 2 Azure subscriptions per attendee.
 
-- The subscriptions should be associated to a **non-production AAD tenant**.
+- All subscriptions should be associated to a **non-production AAD tenant**.
 
 - [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is a mandatory requirement for this hackathon.
 
