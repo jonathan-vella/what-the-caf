@@ -38,6 +38,6 @@ Prior to attending this hackathon, attendees should have:
 - Participated in a CAF 101 workshop or consumed the self-paced learning content [as per this link](https://github.com/jonathan-vella/what-the-caf#the-learning-path)
 - Passed either AZ-104 or AZ-204 or DP-203 and AZ-305, or similar knowledge
 - Read the [customer scenario](https://github.com/jonathan-vella/what-the-caf/blob/main/learning_path_modules/04_ALZ_Accelerator/module_04_customer_scenario.md)
-- Access to an absolute minimum of 2 Azure subscriptions and be assigned Owner RBAC role. **All subscriptions need to be in the same tenant.** The minimum RBAC permissions required at root scope (i.e. above Tenant Root Group):  
+- Access to 1 Azure subscription (preferably 2) and be assigned Owner RBAC role. **All subscriptions need to be in the same tenant.** The minimum RBAC permissions required at root scope (i.e. above Tenant Root Group):  
   - User Access Administrator  
   - Contributor
