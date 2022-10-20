@@ -10,7 +10,7 @@
 - The CEO demands that no data is stored outside of the EU.
 - Due to COVID-19 they are looking to migrate all workloads to Microsoft Azure.
 - They are currently hosting all of their workloads on VMware vSphere estate and have 2 main sites - Athens (Prod DC) and Thessaloniki (DR DC)
-- Circa 200 VMs for Prod, less than 30 for Dev / Test.
+- Circa 75 VMs for Prod, less than 20 for Dev / Test.
 - COVID-19 triggered a heavy investment in their online presence which is now a main revenue stream for the business.
 - They have a separate payment service which is subject to PCI-DSS.
 - They have a MPLS connection between both DCs; some warehouses and disti. centers also act as internet breakout points for their shops.
