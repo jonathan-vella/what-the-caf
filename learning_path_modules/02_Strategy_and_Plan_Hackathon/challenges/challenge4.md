@@ -13,7 +13,7 @@ Potential considerations when building the presentation:
 - Business justification and/or financial model
 - Organizational alignment
 - Skills readiness plan
-- Governance benchmark
+- Business risk MVP
 - Customer testimonials
 - Next steps
 - Appendix (assumptions, etc.)
@@ -23,5 +23,4 @@ Potential considerations when building the presentation:
 ## Challenge 4 – Success Criteria
 
 1. Capture content from Challenges 1 through 3 in a presentation format.
-
 2. Impress the other teams and sell it to your coach!
