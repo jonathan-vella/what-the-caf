@@ -15,20 +15,17 @@
 
 ### **<u>Migrate Like A Pro Hackathon subscription: </u>**
 
+- This is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
 - Azure subscriptions based on Azure Pass are not compatible with the hands-on labs for this hackathon.
-
 - Compatible subscriptions include Azure in CSP, Enterprise Agreement, Pay As You Go, Visual Studio, and Azure Free Account with a Credit Card as per this [FAQ](https://azure.microsoft.com/en-us/free/free-account-faq/).
-
 - The subscription must meet the quota requirements documented [here](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Line-of-business%20application%20migration.md#requirements).
-
 - The subscription can be shared across multiple teams as long as the number of resources required (e.g., Cores, vNets, etc.) are within the Azure subscription and service limits, quotas, and constraints.
 
 ### **<u>ALZ Accelerator Hackathon subscription: </u>**
 
+- This is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
 - At least 1 Azure subscription per attendee is required; the recommendation is to have 2 Azure subscriptions per attendee.
-
 - All subscriptions should be associated to a **non-production AAD tenant**.
-
 - [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is a mandatory requirement for this hackathon.
 
 > Note: Azure subscriptions in CSP must have Azure Cost Management enabled as per this [document](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/get-started-partners)

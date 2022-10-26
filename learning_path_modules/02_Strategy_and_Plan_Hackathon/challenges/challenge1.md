@@ -66,7 +66,7 @@ Ask questions to your team, make educated guesses, but document assumptions. If 
 
 1. Complete the Cloud Journey Tracker assessment tool (take a screenshot and copy into the PPT which you will be using for Challenge 4)
 2. Determine at least 3 (but not more than 5) motivations and cloud benefits according to the customer scenario.
-3. Complete the Business Outcomes template. KPIs are a must-have. If you cannot measure, then it does not exist.
+3. Document at least 3 (but not more than 5) business outcomes. KPIs are a must-have. If you cannot measure, then it does not exist.
 4. Complete the Strategy and Plan template but *STOP* at the “Plan” heading.
 5. And don't forget to document any assumptions (remember that assumptions are the mother of all.....)
 
