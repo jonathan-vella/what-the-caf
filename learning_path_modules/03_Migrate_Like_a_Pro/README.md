@@ -27,7 +27,7 @@ At the end of this hackathon, you will be able to understand how to rationalize 
 ## Guidance for Challenges 2-5
 
 - A hands-on lab **step-by-step** guide is available [here](https://github.com/jonathan-vella/MCW-Line-of-business-application-migration/tree/master)
-- A high-level **architecture diagram** for this lab is available [here.](/learning_path_modules/03_migrate_like_a_pro/media/azmgiratelab_architecture.png)
+- A high-level **architecture diagram** for this lab is available [here.](./media/azmgiratelab_architecture.png)
 - The username for the lab VM (SmartHotelHost) is "demosuer"; the password is "demo!pass123".
 - The username for SQL Server Database is "sa"; the password is "demo!pass123".
 
