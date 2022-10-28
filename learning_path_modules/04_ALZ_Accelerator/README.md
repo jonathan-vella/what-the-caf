@@ -21,7 +21,7 @@ In this hackathon, you will learn how to **make design decisions and deploy the 
 
 ## Prerequisites
 
-Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md).
+Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md). Note that this is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
 
 ---
 
