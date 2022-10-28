@@ -25,10 +25,6 @@ This workshop is applicable to any technical role with a responsibility or invol
 
 - [Git 101](https://www.youtube.com/watch?v=WBg9mlpzEYU)
 
-## Tooling Prerequisites
-
-To avoid any delays with downloading or installing tooling, have [these](https://github.com/jonathan-vella/what-the-caf/blob/main/agenda_and_requirements.md#tooling-prerequisites) ready prior to attending.
-
 ---
 
 ## Requirements
@@ -38,6 +34,14 @@ Prior to attending this hackathon, attendees should have:
 - Participated in a CAF 101 workshop or consumed the self-paced learning content [as per this link](https://github.com/jonathan-vella/what-the-caf#the-learning-path)
 - Passed either AZ-104 or AZ-204 or DP-203 and AZ-305, or similar knowledge
 - Read the [customer scenario](https://github.com/jonathan-vella/what-the-caf/blob/main/learning_path_modules/04_ALZ_Accelerator/module_04_customer_scenario.md)
-- Access to 1 Azure subscription (preferably 2) and be assigned Owner RBAC role. **All subscriptions need to be in the same tenant.** The minimum RBAC permissions required at root scope (i.e. above Tenant Root Group):  
-  - User Access Administrator  
-  - Contributor
+
+## Azure subscription requirements
+
+- This is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
+- At least 1 Azure subscription per attendee is required; the recommendation is to have 2 Azure subscriptions per attendee.
+- All subscriptions should be associated to a **non-production AAD tenant**.
+- [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is a mandatory requirement for this hackathon.
+
+## Tooling Prerequisites
+
+To avoid any delays with downloading or installing tooling, have [these](https://github.com/jonathan-vella/what-the-caf/blob/main/agenda_and_requirements.md#tooling-prerequisites) ready prior to attending.
