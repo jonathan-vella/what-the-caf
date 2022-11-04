@@ -14,11 +14,9 @@ There other deployment options based on Bicep and Terraform but the Portal-based
 ## Challenge 01 - Success criteria
 
 1. Plan and document the IP addressing for the Hub network. Customer will be leveraging at least Azure Firewall, Azure VPN Gateway, and Azure Bastion. In your plan, clearly document subnet names, whether the use of NSGs and / or UDRs is allowed by Azure, and the minimum recommended subnet size. You must include references to online documentation. You can either use the provided [template](/learning_path_modules/04_ALZ_Accelerator/sources/Azure%20Network%20Documentation%20Template.xlsx) or build your own.
-
 2. Document the deployment process by creating a high-level workflow including pre-requisites related to AAD permissions, min. number of subscriptions, subscription naming convention and renaming, etc.
-
-3. Deploy the AdventureWorks reference implementation.
-
+3. Deploy the Contoso reference implementation.
 4. **Do not deploy** the integrated CICD pipeline
+5. Document what you believe should be the minimum requirements to deploy the ALZ accelerator.
 
 ---
