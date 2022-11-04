@@ -22,5 +22,5 @@ To create a balance between speed and control, we recommend that during cloud ad
 
 ## Challenge 2 – Success Criteria
 
-1. Build a cloud adoption and cloud governance teams MVP based on an initial best practice structure (referencing the RACI chart).
+1. Align the organization. Build a cloud adoption and cloud governance teams MVP based on an initial best practice structure (referencing the RACI chart).
 2. Build a business risk MVP which includes at least 6 risks (but not more than 10). Remember that the MVP will be presented to non-technical audiences, so choose your words wisely.
