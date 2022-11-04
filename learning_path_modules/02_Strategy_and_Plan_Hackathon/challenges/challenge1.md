@@ -64,11 +64,14 @@ Ask questions to your team, make educated guesses, but document assumptions. If 
 
 ## Challenge 1 – Success Criteria
 
-1. Complete the Cloud Journey Tracker assessment tool (take a screenshot and copy into the PPT which you will be using for Challenge 4)
-2. Determine at least 3 (but not more than 5) motivations and cloud benefits according to the customer scenario.
-3. Document at least 3 (but not more than 5) business outcomes. KPIs are a must-have. If you cannot measure, then it does not exist.
-4. Complete the Strategy and Plan template but *STOP* at the “Plan” heading.
-5. And don't forget to document any assumptions (remember that assumptions are the mother of all.....)
+1. Complete the Cloud Journey Tracker assessment tool (don't forget to take a screenshot and copy into the PPT which you will be using for Challenge 4!)
+2. Determine 3 to 5 motivations and cloud benefits according to the customer scenario.
+3. Document 3 to 5 business outcomes. KPIs are a must-have. If you cannot measure, then it does not exist.
+4. Create a high-level reference business case for cloud migration.
+5. Identify your first adoption project.
+6. Complete the Strategy and Plan template but *STOP* at the “Plan” heading.
+
+> And don't forget to document any assumptions (remember that assumptions are the mother of all.....)
 
 ---
 
