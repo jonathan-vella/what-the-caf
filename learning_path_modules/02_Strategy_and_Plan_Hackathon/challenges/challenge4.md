@@ -5,16 +5,17 @@
 ## Challenge 4
 
 In this challenge, each team will be presenting their business case to the *customer’s senior leadership team* to justify adopting Azure.  
-
-Potential considerations when building the presentation:
+When building the presentation, don't forget to include:
 
 - Current state and desired future state
 - Motivations, business drivers, and cloud benefits
-- Business justification and/or financial model
-- Organizational alignment
+- Business justification and a high-level cost estimate
+- The first adoption project
+- Your de-risked rationalization approach
+- Initial organizational alignment
 - Skills readiness plan
-- Business risk MVP
-- Customer testimonials
+- A Business risk MVP
+- Relevant customer testimonials / references
 - Next steps
 - Appendix (assumptions, etc.)
 
