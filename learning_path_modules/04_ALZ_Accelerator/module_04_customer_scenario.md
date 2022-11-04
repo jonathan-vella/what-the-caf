@@ -2,16 +2,16 @@
 
 # ALZ Accelerator Customer Scenario
 
-## Tailspin Toys
+## Contoso Corporation
 
 ### Company background & information
 
 - They are a localized brand focusing on wholesale, distribution and retail having their HQ in Athens with warehouses, distribution centres & shops located across the entire Greek territory.
 - The CEO demands that no data is stored outside of the EU.
 - Due to COVID-19 they are looking to migrate all workloads to Microsoft Azure.
-- They are currently hosting all of their workloads on VMware vSphere estate and have 2 main sites - Athens (Prod DC) and Thessaloniki (DR DC)
+- They are currently hosting all of their workloads on VMware vSphere and have 2 main sites - Athens (Prod DC) and Thessaloniki (DR DC)
 - Circa 75 VMs for Prod, less than 20 for Dev / Test.
-- COVID-19 triggered a heavy investment in their online presence which is now a main revenue stream for the business.
+- COVID-19 triggered a heavy investment in their online presence which is now one of the key revenue stream for the business.
 - They have a separate payment service which is subject to PCI-DSS.
 - They have a MPLS connection between both DCs; some warehouses and disti. centers also act as internet breakout points for their shops.
 - They are already using Microsoft 365 services.
@@ -23,7 +23,7 @@
 - They have 2 Azure subscriptions in use by develops as a sandbox.
 - The on-premises AD DS domain is synchronized to AAD.
 - They have a network team with strong skills in Cisco, Checkpoint, and F5.
-- All IT staff are trained and certified in Microsoft Azure (AZ-900, AZ-104, AZ-204, some AZ-305, and no AZ-500).
+- All IT staff are trained and certified in Microsoft Azure (AZ-900, AZ-104, AZ-204, some AZ-305, but no AZ-500 and no AZ-700).
 - They have limited expertise and experience with ARM Templates, GitHub, Azure DevOps.
 
 ### Requirements
