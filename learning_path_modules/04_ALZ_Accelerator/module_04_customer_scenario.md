@@ -23,7 +23,7 @@
 - They have 2 Azure subscriptions in use by develops as a sandbox.
 - The on-premises AD DS domain is synchronized to AAD.
 - They have a network team with strong skills in Cisco, Checkpoint, and F5.
-- All IT staff are trained and certified in Microsoft Azure (AZ-900, AZ-104, AZ-204, some AZ-305, but no AZ-500 and no AZ-700).
+- All IT staff are trained and some are certified in Microsoft Azure (AZ-900, AZ-104, AZ-204 and some AZ-305, but no AZ-500 and no AZ-700).
 - They have limited expertise and experience with ARM Templates, GitHub, Azure DevOps.
 
 ### Requirements
