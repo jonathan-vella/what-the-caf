@@ -26,7 +26,7 @@
 - This is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
 - At least 1 Azure subscription per attendee is required; the recommendation is to have 2 Azure subscriptions per attendee.
 - All subscriptions should be associated to a **non-production AAD tenant**.
-- [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is a mandatory requirement for this hackathon.
+- [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-ALZ-Pre-requisites) is a mandatory requirement for this hackathon.
 
 > Note: Azure subscriptions in CSP must have Azure Cost Management enabled as per this [document](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/get-started-partners)
 >  
