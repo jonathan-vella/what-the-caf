@@ -6,7 +6,9 @@
 
 ## Challenge 03a - Azure VM BCDR at scale
 
-In this challenge you will be deploying an Azure Virtual Machine in the same region as your Hub network. This VM should be auto-enabled for backup and DR on creation using Azure Policy. Explore the possibility of using tags to associate backup and DR policies via Azure Policy.
+In this challenge you will auto-enable backup and disaster recovery on VM creation using Azure Policy. Remember that the customer's requirement is to have "all **production** VMs backed up, and **some** selected VMs in dev/test environments also need to be protected". Your solution must clearly address this requirement.
+
+>Deploy the Azure Virtual Machine in the same region as your Hub network.
 
 ## Challenge 03a - Success Criteria
 
@@ -16,6 +18,7 @@ In this challenge you will be deploying an Azure Virtual Machine in the same reg
 4. Configure Azure Policy to auto-enable DR on VM creation but to also audit for non-compliance
 5. Deploy an Azure VM and make sure that the VM is enabled for BCDR (Azure Backup and Azure Site Recovery) via Azure Policy
 6. In the Azure Portal, have a look at your VM's blade and note what else has the VM been automatically onboarded into.
+7. Be able to answer these 2 questions: At which scope can these policies be applied? And what are you doing to clearly identiy "all production" VMs? 
 
 ---
 
