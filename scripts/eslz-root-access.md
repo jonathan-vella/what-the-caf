@@ -53,7 +53,7 @@ az role assignment delete --assignee username@example.com --role "User Access Ad
 Bash:
 
 ```shell
-az role role assignment list --role "User Access Administrator" --scope "/"
+az role assignment list --role "User Access Administrator" --scope "/"
 ```
 
 ---
