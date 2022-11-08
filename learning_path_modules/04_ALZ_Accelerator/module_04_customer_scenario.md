@@ -23,12 +23,13 @@
 - They have 2 Azure subscriptions in use by develops as a sandbox.
 - The on-premises AD DS domain is synchronized to AAD.
 - They have a network team with strong skills in Cisco, Checkpoint, and F5.
-- All IT staff are trained and some are certified in Microsoft Azure (AZ-900, AZ-104, AZ-204 and some AZ-305, but no AZ-500 and no AZ-700).
+- Some of the IT staff are trained and certified in Microsoft Azure (AZ-900, AZ-104, AZ-204 and some AZ-305, but no AZ-500 and no AZ-700).
 - They have limited expertise and experience with ARM Templates, GitHub, Azure DevOps.
+- They have dedicated 10.0.0.0/16 as the IP address space for all networks in Azure.
 
 ### Requirements
 
-- The first workload to be migrated to Azure is their SAP production landscape; migration has to be completed in less than 6 weeks due to capacity and reliability issues with their DCs.
+- The first workload to be migrated to Azure is their SAP production landscape; migration has to be completed in less than 6 weeks due to capacity and reliability issues with their DCs. They recently experience capacity-related outages which resulted in unexpected downtime.
 - They want to be able to easily create cost-related reports for each workload based on department, owner, and environment.
 - They want to minimize their existing on-premises footprint and want to replace the existing MPLS solution with a 'cloud-based' approach.
 - They want to start allowing local internet breakout from all sites to improve SaaS application performance and reduce the load on their WAN.
