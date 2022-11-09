@@ -16,7 +16,7 @@ This PowerShell module is rooted in the principle that everything in Azure is a 
 2. Initiate the first Pull workflow
 3. Validate AzOps by making sure that the Azure hierarchy that got created using ARM templates as part of the Enterprise-Scale setup, such as management groups, subscription organization as well as policy definitions, policy assignments and role assignments are hydrated and organized into Git.
 4. Using GitHub, create a new [Policy Assignment](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-ALZ-Platform-DevOps#operating-the-azure-platform-using-azops-infrastructure-as-code-with-github-actions) and validate the assignment thru the Azure Portal.
-5. Using GitHub, create a new Role Assignment on the "Sandbox" management group which grants members of the AAD group "Contosos Sandbox Contributors" contributor access at the management group level and validate the assignment thru the Azure Portal.
+5. Using GitHub, create a new Role Assignment on the "Sandbox" management group which grants members of the AAD group "Contoso Sandbox Contributors" contributor access at the management group level and validate the assignment thru the Azure Portal.
 
 ---
 
