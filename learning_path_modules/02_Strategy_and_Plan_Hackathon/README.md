@@ -46,6 +46,8 @@ In this challenge you will learn about the Define Strategy phase from the Cloud 
 
 [Guide for this challenge...](./challenges/challenge1.md)
 
+---
+
 ### Challenge 2: Addressing Business Risks
 
 In this challenge you are required to understand business risk which is one of the most important elements of any cloud transformation. Risk drives policy, and it influences monitoring and enforcement requirements. Risk heavily influences how we manage the digital estate, on-premises or in the cloud.
@@ -54,12 +56,18 @@ In this challenge you are required to understand business risk which is one of t
 
 ### Challenge 3: Time to Plan
 
+---
+
 This challenge's focus is to convert the aspirational goals of a cloud adoption strategy into an actionable plan. You will use the cloud adoption plan to guide technical efforts and align them with Contoso's business strategy.
 
 [Guide for this challenge...](./challenges/challenge3.md)
+
+---
 
 ### Challenge 4: Sell it to your coach!
 
 This challenge simulates a real-world conversation with your stakeholder’s leadership team.  Here, you will present your case and justify why they should adopt Azure.
 
 [Guide for this challenge...](./challenges/challenge4.md)
+
+---
