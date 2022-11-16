@@ -42,32 +42,22 @@ By the end of this hackathon, attendees will have built a cloud adoption plan th
 
 ### Challenge 1: Build an outcome-based strategy
 
-In this challenge you will learn about the Define Strategy phase from the Cloud Adoption Framework.  You will get familiar and understand that there are many reasons and motivations for a cloud adoption, and identifying and understanding them is key in developing an effective cloud adoption plan for the customer.  Every customer has different priorities, processes, and organizational structure that need to be evaluated in order to guarantee a successful cloud journey. You will use this information to start designing your business case and the presentation you will be presenting to the customer’s board.
-
+In this challenge you will learn about the "Define Strategy' phase from the Cloud Adoption Framework.  You will get familiar and understand that there are many reasons and motivations for a cloud adoption, and identifying and understanding them is key in developing an effective cloud adoption plan for the customer.  Every customer has different priorities, processes, and organizational structure that need to be evaluated in order to guarantee a successful cloud journey. You will use this information to start designing your business case and the presentation you will be presenting to the customer’s board in Challenge 4.
 [Guide for this challenge...](./challenges/challenge1.md)
-
----
 
 ### Challenge 2: Addressing Business Risks
 
 In this challenge you are required to understand business risk which is one of the most important elements of any cloud transformation. Risk drives policy, and it influences monitoring and enforcement requirements. Risk heavily influences how we manage the digital estate, on-premises or in the cloud.
-
 [Guide for this challenge...](./challenges/challenge2.md)
 
 ### Challenge 3: Time to Plan
 
----
-
 This challenge's focus is to convert the aspirational goals of a cloud adoption strategy into an actionable plan. You will use the cloud adoption plan to guide technical efforts and align them with Contoso's business strategy.
-
 [Guide for this challenge...](./challenges/challenge3.md)
-
----
 
 ### Challenge 4: Sell it to your coach!
 
 This challenge simulates a real-world conversation with your stakeholder’s leadership team.  Here, you will present your case and justify why they should adopt Azure.
-
 [Guide for this challenge...](./challenges/challenge4.md)
 
 ---
