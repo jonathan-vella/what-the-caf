@@ -2,7 +2,7 @@
 
 # Module 02 - Strategy and Plan Hackathon
 
-## Challenge 2  - Addressing Business Risks
+## Challenge 2  - Addressing Business Risks (45mins)
 
 In this challenge you are required to understand business risk which is one of the most important elements of any cloud transformation. Risk drives policy, and it influences monitoring and enforcement requirements. Risk heavily influences how we manage the digital estate, on-premises or in the cloud.
 
