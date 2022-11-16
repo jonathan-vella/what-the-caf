@@ -2,7 +2,7 @@
 
 ## Module 02 - Strategy and Plan Hackathon
 
-## Challenge 1 - Building an outcome-based strategy
+## Challenge 1 - Build an outcome-based strategy
 
 In this challenge you will learn about the 'Define Strategy' phase from the Cloud Adoption Framework.  You will get familiar and understand that there are many reasons and motivations for cloud adoption, and identifying and understanding them is key in developing an effective cloud adoption plan for the customer. 
 
@@ -65,8 +65,8 @@ Ask questions to your team, make educated guesses, but document assumptions. If 
 ## Challenge 1 – Success Criteria
 
 1. Complete the Cloud Journey Tracker assessment tool (don't forget to take a screenshot and copy into the PPT which you will be using for Challenge 4!)
-2. Determine 3 to 5 motivations and cloud benefits according to the customer scenario.
-3. Document 3 to 5 business outcomes. KPIs are a must-have. If you cannot measure, then it does not exist.
+2. Determine 3 - 5 motivations and cloud benefits according to the customer scenario.
+3. Document 3 - 5 business outcomes. KPIs are a must-have. If you cannot measure, then it does not exist.
 4. Create a high-level reference business case for cloud migration.
 5. Identify your first adoption project.
 6. Complete the Strategy and Plan template but *STOP* at the “Plan” heading.
