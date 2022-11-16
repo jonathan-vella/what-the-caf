@@ -2,7 +2,7 @@
 
 ## Module 02 - Strategy and Plan Hackathon
 
-## Challenge 1
+## Challenge 1 - Building an outcome-based strategy
 
 In this challenge you will learn about the 'Define Strategy' phase from the Cloud Adoption Framework.  You will get familiar and understand that there are many reasons and motivations for cloud adoption, and identifying and understanding them is key in developing an effective cloud adoption plan for the customer. 
 
@@ -11,7 +11,7 @@ Every customer has different priorities, processes, and organizational structure
 **Learning Objectives:**
 
 - Document motivations and benefits for moving to the cloud.
-- Establish clear business outcomes, by key stakeholders or decision-makers, that align with your motivations.
+- Establish clear business outcomes, by key stakeholders or decision-makers, that align with your motivations. These business outcomes must be measurable and actionable.
 - Define your business case by capturing a business justification through a financial model to project business impact.
 
 ---
