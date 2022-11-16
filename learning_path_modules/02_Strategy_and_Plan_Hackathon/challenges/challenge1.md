@@ -2,7 +2,7 @@
 
 ## Module 02 - Strategy and Plan Hackathon
 
-## Challenge 1 - Build an outcome-based strategy
+## Challenge 1 - Build an outcome-based strategy (1hr 30mins)
 
 In this challenge you will learn about the 'Define Strategy' phase from the Cloud Adoption Framework.  You will get familiar and understand that there are many reasons and motivations for cloud adoption, and identifying and understanding them is key in developing an effective cloud adoption plan for the customer. 
 
