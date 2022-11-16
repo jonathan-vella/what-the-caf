@@ -2,7 +2,7 @@
 
 # Module 02 - Strategy and Plan Hackathon
 
-## Challenge 4
+## Challenge 4 - Sell it to your coach!
 
 In this challenge, each team will be presenting their business case to the *customer’s senior leadership team* to justify adopting Azure.  
 When building the presentation, don't forget to include:
@@ -23,5 +23,5 @@ When building the presentation, don't forget to include:
 
 ## Challenge 4 – Success Criteria
 
-1. Capture content from Challenges 1 through 3 in a presentation format.
+1. Capture content from Challenges 1 through 3 in a presentation format. Max time per team is of 20mins
 2. Impress the other teams and sell it to your coach!
