@@ -17,6 +17,7 @@ Spend some time reviewing the contents of the file and the results of the Azure 
 - Take an inventory of a customer's digital estate & understand cloud costs
 - Get more familiar with the five Rs of rationalization which is the process of evaluating assets to determine the best way to migrate or modernize each asset in the cloud.
 - Understand that a readiness plan will enable agile employees to explore and learn new cloud technologies instead of fearing them. These employess can lead the adoption of cloud services and help the organization learn and embrace the associated changes.
+- The value of having a process and approach for planning and tracking the completion of cloud adoption projects.
 
 ---
 
