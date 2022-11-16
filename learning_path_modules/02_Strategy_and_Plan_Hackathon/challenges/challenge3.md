@@ -14,7 +14,7 @@ Spend some time reviewing the contents of the file and the results of the Azure 
 
 **Learning objectives:**
 
-- Take inventory of your digital estate & understand cloud costs
+- Take an inventory of a customer's digital estate & understand cloud costs
 - Get more familiar with the five Rs of rationalization which is the process of evaluating assets to determine the best way to migrate or modernize each asset in the cloud.
 - Understand that a readiness plan will enable agile employees to explore and learn new cloud technologies instead of fearing them. These employess can lead the adoption of cloud services and help the organization learn and embrace the associated changes.
 
@@ -25,7 +25,7 @@ Spend some time reviewing the contents of the file and the results of the Azure 
 1. Create an assessment report including cost estimates using the Azure Migrate tool.
 2. Create a high-level workload rationalization plan which is de-risked by using cloud adoption horizons.
 3. Create a readiness plan which maps roles and skills.
-4. Translatr strategy and effort into an actionable cloud adoption plan.
+4. Translate strategy and effort into an actionable cloud adoption plan.
 
 ---
 
