@@ -15,7 +15,7 @@ In this challenge you will be implementing [AzGovViz](https://github.com/JulianH
 
 ## Challenge 04 - Success criteria (option 2):
 
-1. Setup AzGovViz with either Azure DevOps or GitHub Actions using OIDC
+1. Setup AzGovViz with GitHub Actions using OIDC
 2. Configure AzGovViz to use "PSRule for Azure"
 3. Publishing the AzGovViz HTML to a Azure Web App
 
