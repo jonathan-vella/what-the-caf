@@ -24,7 +24,7 @@
 ### **<u>ALZ Accelerator Hackathon subscription: </u>**
 
 - This is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
-- At least 1 Azure subscription per attendee is required; the recommendation is to have 2 Azure subscriptions per attendee.
+- At least 1 Azure subscription and 1 AAD tenant per attendee are required; the recommendation is to have 2 Azure subscriptions and 1 AAD tenant per attendee.
 - All subscriptions should be associated to a **non-production AAD tenant**.
 - [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-ALZ-Pre-requisites) is a mandatory requirement for this hackathon.
 
@@ -56,5 +56,3 @@ To avoid any delays with downloading or installing tooling, have the following r
   ```powershell
   Update-Module Az.Accounts, Az.Resources, Microsoft.Graph.Identity.DirectoryManagement, Microsoft.Graph.Applications
   ```
-
-- Preferably, if using Windows, also install [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
