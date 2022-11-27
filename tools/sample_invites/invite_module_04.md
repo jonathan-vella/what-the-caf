@@ -38,7 +38,7 @@ Prior to attending this hackathon, attendees should have:
 ## Azure subscription requirements
 
 - This is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
-- At least 1 Azure subscription per attendee is required; the recommendation is to have 2 Azure subscriptions per attendee.
+- At least 1 Azure subscription and 1 AAD tenant per attendee are required; the recommendation is to have 2 Azure subscriptions and 1 AAD tenant per attendee
 - All subscriptions should be associated to a **non-production AAD tenant**.
 - [Tenant root access](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites) is a mandatory requirement for this hackathon.
 
