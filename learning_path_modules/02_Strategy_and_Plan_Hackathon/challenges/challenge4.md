@@ -2,7 +2,7 @@
 
 # Module 02 - Strategy and Plan Hackathon
 
-## Challenge 4 - Sell it to your coach! (45mins)
+## Challenge 4 - Sell it to Contoso, and your coach! (45mins)
 
 In this challenge, each team will be presenting their business case to the *customer’s senior leadership team* to justify adopting Azure.  
 When building the presentation, don't forget to include:
