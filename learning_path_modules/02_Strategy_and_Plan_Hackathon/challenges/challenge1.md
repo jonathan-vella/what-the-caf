@@ -8,7 +8,7 @@ In this challenge you will learn about the 'Define Strategy' phase from the Clou
 
 Every customer has different priorities, processes, and organizational structures that need to be evaluated in order to guarantee a successful cloud journey. You will use this information to start building a business case which you will be presenting to the customer’s board.
 
-Why is is this phase so critical for the entire journey? Many companies announce cloud-first or cloud-only strategies. But, they don't clearly define what they want to achieve with those strategies. Few cloud projects can succeed without concrete KPIs and goals. It's impossible to measure project performance without indicators or specified targets.
+>Why is is this phase so critical for the entire journey? Many companies announce cloud-first or cloud-only strategies. But, they don't clearly define what they want to achieve with those strategies. Few cloud projects can succeed without concrete KPIs and goals. It's impossible to measure project performance without indicators or specified targets.
 
 **Learning Objectives:**
 
