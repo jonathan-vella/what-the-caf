@@ -4,7 +4,7 @@
 
 ---
 
-## Challenge 01 - Azure landing zone conceptual architecture deployment
+## Challenge 01 - ALZ deployment (2hrs)
 
 In the first part of this challenge you will be deploying one of the Reference implementations located in this [repository](https://github.com/Azure/Enterprise-Scale) using the Azure Portal experience. There other deployment options based on Bicep and Terraform but the Portal-based experience is the quickest way to deploy the ALZ conceptual architecture, and yep there are some trade offs which we will discuss.
 
@@ -23,9 +23,9 @@ In the second part of this challenge you will be documenting how you will meet C
 
 ## Challenge 01a - Success criteria
 
-1. Document what you believe should be the minimum requirements to deploy the ALZ accelerator.
-2. How will you help the customer easily create cost-related reports for each workload based on department, owner, and environment?
-3. How will you implement the customer's regulatory & compliance requirements?
-4. How are you going to make sure that M-Series and L-Series VMs can only be deployed in the SAP environments?
+1. Document and share with your coach what you believe should be the minimum requirements to deploy the ALZ accelerator.
+2. What will you use to help the customer easily create cost-related reports for each workload based on department, owner, and environment? And how will you use it?
+3. How will you implement the customer's regulatory & compliance requirements? You must include links to relevant documentation which supports your approach.
+4. How are you going to make sure that M-Series and L-Series VMs can only be deployed in the SAP environments without impacting agility and scale?
 
 ---
