@@ -8,6 +8,8 @@ In this challenge you will learn about the 'Define Strategy' phase from the Clou
 
 Every customer has different priorities, processes, and organizational structures that need to be evaluated in order to guarantee a successful cloud journey. You will use this information to start building a business case which you will be presenting to the customer’s board.
 
+Why is is this phase so critical for the entire journey? Many companies announce cloud-first or cloud-only strategies. But, they don't clearly define what they want to achieve with those strategies. Few cloud projects can succeed without concrete KPIs and goals. It's impossible to measure project performance without indicators or specified targets.
+
 **Learning Objectives:**
 
 - Document motivations and benefits for moving to the cloud.
@@ -24,7 +26,7 @@ Every customer has different priorities, processes, and organizational structure
 - Keep in mind that each team will be presenting all information back to the customer’s senior leadership team to justify adopting Azure (Challenge 4). 
 - Your team should have completed the following items (preferably in order and together, but that is up to you):
   1. Use the [Cloud Journey Tracker](https://docs.microsoft.com/assessments/?mode=pre-assessment&id=cloud-journey-tracker) to understand the customer’s cloud adoption needs through this **assessment** tool
-  2. Capture key **motivations** and **cloud benefits** for adopting the cloud. You can use the [Business outcome template spreadsheet](https://archcenter.blob.core.windows.net/cdn/business-outcome-template.xlsx) to document **business outcomes** by key stakeholder
+  2. Capture key **motivations** and **cloud benefits** for adopting the cloud. Document **business outcomes** by key stakeholder.
   3. Consolidate all information in the [Strategy & Plan template](https://archcenter.blob.core.windows.net/cdn/fusion/readiness/Microsoft-Cloud-Adoption-Framework-Strategy-and-Plan-Template.docx) but *STOP before the “PLAN” section*.
 
 ---
@@ -33,7 +35,8 @@ Every customer has different priorities, processes, and organizational structure
 
 ## If you are a CxO at Contoso, what would be the possible benefits of Azure:
 
-- How can Azure help Contoso focus on core differentiating activities? How can Contoso use the platform to accelerate innovation. For example how can they leverage cloud-native functionality for new drone services?
+- How can Azure help Contoso focus on core differentiating activities?
+- How can Contoso use the platform to accelerate innovation. For example how can they leverage cloud-native functionality for new drone services?
 - What about the IaC and DevOps as a market differentiator?
 - Business seasonality, cost variability, and scalability. But what about the impact of Reservations?
 - Globally availability
