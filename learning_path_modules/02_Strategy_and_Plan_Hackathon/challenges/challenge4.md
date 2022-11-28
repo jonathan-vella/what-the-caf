@@ -23,5 +23,6 @@ When building the presentation, don't forget to include:
 
 ## Challenge 4 – Success Criteria
 
-1. Capture content from Challenges 1 through 3 in a presentation format. Max time per team is of 20mins
-2. Impress the other teams and sell it to your coach!
+1. Capture the necessary content from Challenges 1 through 3 in a presentation format.
+2. Present your high-level feasibility study in max 15mins.
+3. Impress the other teams and sell it to your coach!
