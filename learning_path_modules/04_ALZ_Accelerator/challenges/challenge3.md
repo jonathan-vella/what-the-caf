@@ -6,20 +6,20 @@
 
 ## Challenge 03a - Azure VM BCDR at scale (45mins)
 
-In this challenge you will auto-enable backup and disaster recovery on VM creation using Azure Policy. Remember that the customer's requirement is to have "all **production** VMs backed up, and **some** selected VMs in dev/test environments also need to be protected" at least on a weekly bais. Your solution must clearly address this requirement.
+In this challenge you will auto-enable backup and disaster recovery on VM creation using Azure Policy. Remember that the customer's requirement is to have "all **production** VMs backed up, and **some** selected VMs in dev/test environments" to be protected at least on a weekly basis. Your solution must clearly address all of these requirements whilst minimizing management tasks and limiting the blast radius during incidents which require the use of Azure Backup.
 
->You can deploy the Azure Virtual Machine in the same region as your Hub network. At a minimum all VMs in scope should be backed up on a weekly basis.
+>You can deploy the Azure VM and Azure SQL Db in the same region as your Hub network. Azure Policy assignments take up to 30 minutes to take effect.
 
 ## Challenge 03a - Success Criteria
 
-1. Think before you act and assess the exisitng Azure Policy assignments. Do you need to change anything?
-2. Configure Azure Backup (e.g., vault, backup policy, etc.)
+1. Think before you act. Assess the existing Azure Policy assignments. Do you need to change anything? And which Azure Policy for Azure Backup are you going to use meet the customer's requirement?
+2. Configure Azure Backup (e.g., vault, policy, etc.)
 3. Configure Azure Policy to auto-enable backup on VM creation but to also audit for non-compliance
 4. Configure Azure Site Recovery (e.g., vault, policy, etc.)
 5. Configure Azure Policy to auto-enable DR on VM creation but to also audit for non-compliance
 6. Deploy an Azure VM and make sure that the VM is enabled for BCDR (Azure Backup and Azure Site Recovery) via Azure Policy
 7. In the Azure Portal, have a look at your VM's blade and note what else has the VM been automatically onboarded into.
-8. Be able to answer these 2 questions: At which scope can these policies be applied? And what are you doing to clearly identify "all **production** VMs backed up, and **some** selected VMs in dev/test environments"? 
+8. Be able to answer these 2 questions: At which scope can these policies be applied? And what are you doing to clearly and easily identify "all **production** VMs backed up, and **some** selected VMs in dev/test environments"? 
 
 ---
 
