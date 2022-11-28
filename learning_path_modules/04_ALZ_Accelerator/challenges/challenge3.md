@@ -4,25 +4,26 @@
 
 ---
 
-## Challenge 03a - Azure VM BCDR at scale
+## Challenge 03a - Azure VM BCDR at scale (45mins)
 
-In this challenge you will auto-enable backup and disaster recovery on VM creation using Azure Policy. Remember that the customer's requirement is to have "all **production** VMs backed up, and **some** selected VMs in dev/test environments also need to be protected". Your solution must clearly address this requirement.
+In this challenge you will auto-enable backup and disaster recovery on VM creation using Azure Policy. Remember that the customer's requirement is to have "all **production** VMs backed up, and **some** selected VMs in dev/test environments also need to be protected" at least on a weekly bais. Your solution must clearly address this requirement.
 
 >You can deploy the Azure Virtual Machine in the same region as your Hub network. At a minimum all VMs in scope should be backed up on a weekly basis.
 
 ## Challenge 03a - Success Criteria
 
-1. Configure Azure Backup (e.g., vault, backup policy, etc.)
-2. Configure Azure Policy to auto-enable backup on VM creation but to also audit for non-compliance
-3. Configure Azure Site Recovery (e.g., vault, policy, etc.)
-4. Configure Azure Policy to auto-enable DR on VM creation but to also audit for non-compliance
-5. Deploy an Azure VM and make sure that the VM is enabled for BCDR (Azure Backup and Azure Site Recovery) via Azure Policy
-6. In the Azure Portal, have a look at your VM's blade and note what else has the VM been automatically onboarded into.
-7. Be able to answer these 2 questions: At which scope can these policies be applied? And what are you doing to clearly identify "all **production** VMs backed up, and **some** selected VMs in dev/test environments"? 
+1. Think before you act and assess the exisitng Azure Policy assignments. Do you need to change anything?
+2. Configure Azure Backup (e.g., vault, backup policy, etc.)
+3. Configure Azure Policy to auto-enable backup on VM creation but to also audit for non-compliance
+4. Configure Azure Site Recovery (e.g., vault, policy, etc.)
+5. Configure Azure Policy to auto-enable DR on VM creation but to also audit for non-compliance
+6. Deploy an Azure VM and make sure that the VM is enabled for BCDR (Azure Backup and Azure Site Recovery) via Azure Policy
+7. In the Azure Portal, have a look at your VM's blade and note what else has the VM been automatically onboarded into.
+8. Be able to answer these 2 questions: At which scope can these policies be applied? And what are you doing to clearly identify "all **production** VMs backed up, and **some** selected VMs in dev/test environments"? 
 
 ---
 
-## Challenge 03b - Azure SQL DB BCDR at scale
+## Challenge 03b - Azure SQL DB BCDR at scale (30mins)
 
 In this challenge you will be creating a custom Azure Policy definition which can audit the PITR backup configuration of Azure SQL Database and / or if the PITR is not set to the user-specified number of days (e.g., 7 days), the policy will remediate this setting.
 
