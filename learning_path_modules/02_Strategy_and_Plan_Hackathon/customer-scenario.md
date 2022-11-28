@@ -17,6 +17,7 @@ Contoso see an opportunity to leverage technology such as drones, data and AI to
 - One of the immediate priorities is to enable Contoso's Business Units to focus on core activities rather than trying to keep the lights on. They also want to downsize their on-premises IT infrastructure through use of cloud technologies, centralization, and automation.
 - IT head-count is starting to become an issue since the talent pool is limited.
 - Contoso has a total of 173 Applications
+- Some members of the SLT are concerned that a "move to Azure" will result in additional business risk related to cost, security, and resiliency (but not only!).
 
 Contoso's Senior Leadership Team (SLT) have already set the company direction to leverage technology to transform the business and now want a **high-level business case** so they carry out a cost vs. benefit analysis and ensure that this strategic move makes sense at this stage. At this moment in time this is a litmus test which the SLT will use to eval whether or not Contoso should release another round of funding. Further depth in the business case will be built in later stages.
 
