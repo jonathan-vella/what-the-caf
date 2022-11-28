@@ -20,5 +20,6 @@ In this challenge you are required to understand business risk which is one of t
 
 ## Challenge 2 – Success Criteria
 
-1. Build a business risk MVP which includes at least 6 risks (but not more than 10).
-2. Choose your words wisely. This MVP will be presented to non-technical audiences.
+1. Build a business risk MVP based on 6-8 risks.
+2. Your MVP must clearly address the concern that a "move to Azure will result in additional business risk related to cost, security, and resiliency".
+3. This MVP will be presented to non-technical audiences; choose your words wisely. 
