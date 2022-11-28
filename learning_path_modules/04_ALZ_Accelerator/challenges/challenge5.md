@@ -4,7 +4,7 @@
 
 ---
 
-## Challenge 05 - Azure Design Review
+## Challenge 05 - Azure Design Review (15mins)
 
 In this challenge you will be doing an Azure design review to double-check that you are following best practices, or perhaps to evaluate the work of others.
 
