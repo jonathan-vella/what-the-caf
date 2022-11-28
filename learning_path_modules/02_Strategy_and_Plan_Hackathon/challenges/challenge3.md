@@ -24,10 +24,11 @@ in making technical decisions and to support the new cloud implementations. To e
 
 ## Challenge 3 – Success Criteria
 
-1. Create an assessment report including cost estimates using the Azure Migrate tool.
-2. Create a high-level workload rationalization plan which is de-risked by using cloud adoption horizons.
-3. Create a readiness plan which maps roles and skills.
-4. Translate strategy and effort into an actionable cloud adoption plan. This plan should clearly demonstrate that you have a process and approach for planning and tracking the completion of cloud adoption projects.
+1. Remember that this is a litmus test. The use of reference documentation is perfectly acceptable.
+2. Create an assessment report including cost estimates using the Azure Migrate tool.
+3. Create a high-level workload rationalization plan which is de-risked by using cloud adoption horizons.
+4. Create a readiness plan which maps roles and skills.
+5. Translate strategy and effort into an actionable cloud adoption plan. This plan should clearly demonstrate that you have a process and approach for planning and tracking the completion of cloud adoption projects.
 
 ---
 
