@@ -22,4 +22,5 @@ In this challenge you are required to understand business risk which is one of t
 
 1. Build a business risk MVP based on 6-8 risks.
 2. Your MVP must clearly address the concern that a "move to Azure will result in additional business risk related to cost, security, and resiliency".
-3. This MVP will be presented to non-technical audiences; choose your words wisely. 
+3. You must be able to demonstate how these risks are mitigated "out-of-the-box".
+4. This MVP will be presented to non-technical audiences; choose your words wisely. 
