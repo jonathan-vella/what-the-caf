@@ -12,8 +12,8 @@ This PowerShell module is rooted in the principle that everything in Azure is a 
 
 ## Challenge 02 - Success Criteria
 
-1. Every action in Azure must be performed by an identity. Read all 5 points in this challenge and using the concept of least privilige, identify the RBAC role you must use and the scope assignment for the idenitity you will be using. **Do not proceed before discussing your solution with your coach**
-2. You must configure AzOps via Portal (or command-line script!) and initiate the first Pull workflow.
+1. Read all points in this challenge and using the concept of least privilige, identify the RBAC role and scope you must assign for the idenitity you will be using for AzOps. **Do not proceed before discussing your solution with your coach.**
+2. Transform your Azure into code. Configure AzOps and initiate the first Pull workflow.
 3. Validate AzOps by making sure that the Azure hierarchy that got created using ARM templates as part of the ALZ setup, such as management groups, subscription organization as well as policy definitions, policy assignments and role assignments are hydrated and organized into Git.
 4. Using GitHub, create a new [Policy Assignment](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-ALZ-Platform-DevOps#operating-the-azure-platform-using-azops-infrastructure-as-code-with-github-actions) and validate the assignment thru the Azure Portal. **Do not update the Azure Policy assignment to Enforce!**
 5. Using GitHub, create a new Role Assignment on the "Sandbox" management group which grants members of the AAD group "Contoso Sandbox Contributors" contributor access at the management group level and validate the assignment thru the Azure Portal.
