@@ -23,7 +23,7 @@ In the second part of this challenge you will be documenting how you will meet C
 
 ## Challenge 01a - Success criteria
 
-1. Document and share with your coach what you believe should be the minimum requirements to deploy the ALZ accelerator.
+1. Document and share with your coach what you believe should be the minimum requirements and level of information you need have at hand to deploy the ALZ accelerator.
 2. What will you use to help the customer easily create cost-related reports for each workload based on department, owner, and environment? And how will you use it?
 3. How will you implement the customer's regulatory & compliance requirements? You must include links to relevant documentation which supports your approach.
 4. How are you going to make sure that M-Series and L-Series VMs can only be deployed in the SAP environments without impacting agility and scale?
