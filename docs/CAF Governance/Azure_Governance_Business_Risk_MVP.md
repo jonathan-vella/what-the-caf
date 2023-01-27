@@ -37,5 +37,6 @@ Now what policies can we use to address these concerns?  Right away three come 
 
 These again are just policies commonly deployed in the wild. Your requirements will vary.  Once a standard is agreed upon and Azure Polices are defined.  You can make sure your environment has the policies enforced and compliant.
 
-Contributors:
--Amy Colyer
+##### Contributors:
+
+- Amy Colyer
