@@ -36,3 +36,6 @@ Now what policies can we use to address these concerns?  Right away three come 
 | Audit machines with insecure password security settings | This initiative deploys the policy requirements and audits machines with insecure password security settings. For more information on Guest Configuration policies, please visit [Understand Azure Automanage Machine Configuration \| Microsoft Learn](https://aka.ms/gcpol)                                                                            | This is actually an initiative containing policies for maximum password age, reusing previous passwords etc | NOTE: it is important when assigning these policies to use the Initiative.  The DeployIfNotExists policy loads the VM extension, which is a requirement for Audit/AuditIfNotExists policies in Guest Configuration to work properly. |
 
 These again are just policies commonly deployed in the wild. Your requirements will vary.  Once a standard is agreed upon and Azure Polices are defined.  You can make sure your environment has the policies enforced and compliant.
+
+Contributors
+Amy Colyer
