@@ -48,3 +48,4 @@
 - TDE & Auditing should be enforced on all Azure SQL Databases.
 - Azure Monitor VM Insights should be enabled on all VMs and any required agents automatically installed.
 - No Public IP Addresses are allowed in the environment except for core network functionality, sandbox environments, and online applications.
+- We should receive alerts related to abnornmal consumption, cost overruns, etc.
