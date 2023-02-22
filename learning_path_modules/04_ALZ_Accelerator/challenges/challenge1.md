@@ -27,6 +27,6 @@ In the second part of this challenge you will be documenting how you will meet C
 2. What will you use to help the customer easily create cost-related reports for each workload based on department, owner, and environment? And how will you apply it?
 3. How will you implement the customer's regulatory & compliance requirements? You must include links to relevant documentation which supports your approach.
 4. How are you going to make sure that M-Series and L-Series VMs can only be deployed in the SAP environments without impacting agility and scale?
-5. How will ensure that "development environments and associated VNETs are not able to communicate with production"?
+5. How will you ensure that "development environments and associated VNETs are not able to communicate with production"?
 
 ---
