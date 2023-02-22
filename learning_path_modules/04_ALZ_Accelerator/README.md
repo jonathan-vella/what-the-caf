@@ -21,22 +21,29 @@ In this hackathon, you will learn how to **make design decisions and deploy the 
 
 ## Prerequisites
 
-Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md). Note that this is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
+Before attending please read this [customer case study](./module_04_customer_scenario.md) and review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](/agenda_and_requirements.md). Note that this is a Bring-Your-Own-Subscription event; no Azure subscriptions will be provided.
 
 ---
 
 ## Agenda
 
-### Hackathon Day 1 (8hr)
+### Hackathon Day 1 (4hr)
 
-- Azure Landing Zones and the Azure Landing Zone conceptual architecture 
+- Cloud Adoption and Well Architected Knowledge Refresh
+- Azure Landing Zones and the Azure Landing Zone conceptual architecture review
+- Contoso Corporation customer scenario review and discussion
 - The minified version of design areas, principles, considerations, and recommendations
-- [Challenge 01](./challenges/challenge1.md) Landing Zone deployment
+- [Challenge 01](./challenges/challenge1.md) Azure Landing Zones deployment
 
-### Hackathon Day 2 (8hr)
+### Hackathon Day 2 (7hr)
 
+- The minified version of design areas, principles, considerations, and recommendations (cont.)
+- [Challenge 01](./challenges/challenge1.md) Azure Landing Zones deployment (cont.)
 - [Challenge 02](./challenges/challenge2.md) IaC and PaC with GitHub actions
+
+### Hackathon Day 3 (7hr)
+
 - [Challenge 03](./challenges/challenge3.md) Azure VM and Azure SQL Database BCDR at scale
-- [Challenge 04](./challenges/challenge4.md) Visualizing and documenting Azure Governance
+- [Challenge 04](./challenges/challenge4.md) Dcoumentating & Assessing ALZ
 - [Challenge 05](./challenges/challenge5.md) Assessing Landing Zones just like the FTA team!
 - [Challenge 06](./challenges/challenge6.md) Environment cleanup
