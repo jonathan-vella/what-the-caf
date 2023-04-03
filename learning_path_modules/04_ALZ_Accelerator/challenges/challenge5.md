@@ -12,7 +12,8 @@ You will be using this [repo](https://github.com/Azure/review-checklists) which 
 
 ## Challenge 05 - Success Criteria
 
-1. Use the Excel spreadsheet, import the latest Landing Zone checklist, and explore the contents of the file.
+1. Use the Excel spreadsheet, import the latest Azure Landing Zone checklist, and explore the contents of the file.
 2. Review all checklist items with a "high" severity.
+3. Use the provided workbooks to dynamically verify whether the resources in your subsciption(s) are compliant with the checklist recommendations.
 
 ---
