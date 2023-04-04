@@ -20,7 +20,7 @@
 
 - They have an active Enterprise Agreement covering all Microsoft software.
 - They have a mix of Microsoft 365 E3 and E5 licenses.
-- They have 2 Azure subscriptions in use by develops as a sandbox.
+- They have 2 Azure subscriptions in use by developers as a sandbox.
 - The on-premises AD DS domain is synchronized to AAD.
 - They have a network team with strong skills in Cisco, Checkpoint, and F5.
 - Some of the IT staff are trained and certified in Microsoft Azure (AZ-900, AZ-104, AZ-204 and some AZ-305, but no AZ-500 and no AZ-700).
