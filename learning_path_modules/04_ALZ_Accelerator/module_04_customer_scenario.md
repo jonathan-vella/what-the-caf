@@ -29,23 +29,19 @@
 
 ### Requirements
 
-- The first workload to be migrated to Azure is their SAP production landscape; migration has to be completed in less than 6 weeks due to capacity and reliability issues with their DCs. They recently experience capacity-related outages which resulted in unexpected downtime.
+- The first workload to be migrated to Azure is the SAP production landscape; migration must be completed in less than 6 weeks due to capacity and reliability issues with their datacenters. Customer recently experienced capacity-related outages which resulted in unexpected downtime and data loss.
 - They want to be able to easily create cost-related reports for each workload based on department, owner, and environment.
 - They want to minimize their existing on-premises footprint and want to replace the existing MPLS solution with a 'cloud-based' approach.
 - They want to start allowing local internet breakout from all sites to improve SaaS application performance and reduce the load on their WAN.
-- They require ability to deny certain Azure Resources and or Services.
-- They require separate Production, Staging & Development environments for security, agility and cost purposes.
-- They do not want to have development environments and associated VNETs to be able to communicate with production.
+- They require the ability to deny certain Azure Resources and or Services. For example, a must-have is "No M-Series or L-Series VMs can be deployed except for the SAP environments".
+- They require separate Production, Staging & Development environments for security, agility and cost purposes. But they do not want to have development environments and associated VNETs to be able to communicate with production. Also, developers must granted "unrestricted" access to development environments at scale with minimal administrative overhead.
 - All production VMs must be backed up, and some selected VMs in dev/test environments also need to be protected.
 - They require built-in platform regulatory compliance security checks and reporting for all production environments (PCI-DSS, ISO27001, CIS etc.)
   - ISO27001 for all environments except Sandbox subscriptions.
   - PCI-DSS for the payment system.
-- Require unrestricted area for developers to innovate on new solutions/services. however they are not allowed to have any connectivity into corporate networks.
-- They require a more granular approach to admin access to environments within Azure whilst minimizing admin overhead.
 - All Subnets must be protected with NSGs and cannot be disabled.
 - Azure Activity Logs for all Subscriptions & Diagnostic settings for all Azure Resources should be enabled automatically and sent to a centralized LAW.
-- No M-Series or L-Series VMs can be deployed except for the SAP environments.
 - TDE & Auditing should be enforced on all Azure SQL Databases.
 - Azure Monitor VM Insights should be enabled on all VMs and any required agents automatically installed.
 - No Public IP Addresses are allowed in the environment except for core network functionality, sandbox environments, and online applications.
-- We should receive alerts related to abnornmal consumption, cost overruns, etc.
+- They should receive alerts related to abnornmal consumption, cost overruns, etc.
